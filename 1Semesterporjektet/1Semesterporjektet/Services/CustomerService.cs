@@ -8,5 +8,9 @@ namespace _1Semesterporjektet.Services
 {
     internal class CustomerService
     {
+        public void TestMetode()
+        {
+
+        }
     }
 }
